@@ -1,0 +1,27 @@
+h1{
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	text-align: left;
+	margin-left: 3rem;
+	font-family: courier new;
+}
+
+
+
+pre{
+font-size: 20px;
+line-height: 1.6;
+letter-spacing: -0.047em;
+font-weight: 100;
+font-style: normal;
+}
+
+img{
+	width: 50%;
+	margin-left: 3rem;
+}
+
+div{
+	margin-left: 10%;
+	margin-bottom: 5rem;
+}
