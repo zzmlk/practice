@@ -1,14 +1,6 @@
-.wrapper{
-	width:50%;
-	height:90%;
-	background-color:white;}
-
-
 
 body{
-
 	text-align: center;
-
 }
 
 
@@ -53,4 +45,42 @@ table{
 	font-family: Helvatica;
 	width:300px;
 	height:300px;
+}
+
+.text{
+	text-align: left;
+	width:300px;
+	height:100%;
+	background-color:snow;
+	margin-left: 14rem;
+
+}
+
+.red1{
+	margin-top: 5rem;
+	width: 100px;
+	height:100px;
+	background-color: darkred;
+	margin-left: 30rem;
+	color:white;
+	font-size:2rem;
+}
+
+.red2{
+	width: 100px;
+	height:100px;
+	background-color: firebrick;
+	margin-left: 30rem;
+	color:white;
+	font-size: 2rem;
+}
+
+.red3{
+	width: 100px;
+	height:100px;
+	background-color: indianred;
+	margin-left: 30rem;
+	color:white;
+	font-size: 2rem;
+
 }
