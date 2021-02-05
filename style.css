@@ -8,7 +8,7 @@ body,a{
 	text-decoration: none;
 }
 
-h1{
+h1 {
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 	margin-left: 3rem;
@@ -17,13 +17,16 @@ h1{
 }
 
 
+.text a h1:hover{
+	color:white;
+}
 
 pre{
-font-size: 20px;
-line-height: 1.6;
-letter-spacing: -0.047em;
-font-weight: 100;
-font-style: normal;
+	font-size: 20px;
+	line-height: 1.6;
+	letter-spacing: -0.047em;
+	font-weight: 100;
+	font-style: normal;
 }
 
 img{
@@ -82,5 +85,6 @@ table{
 	margin-left: 30rem;
 	color:white;
 	font-size: 2rem;
-
 }
+
+.red1 
