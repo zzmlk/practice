@@ -1,9 +1,31 @@
+.wrapper{
+	width:70%;
+	height:90%;
+	background-color:white;
+	text-align: center;
+}
+
+
+
+body{
+	background-position: top;
+	background-image: url("background.jpg");
+	background-repeat: repeat-y;
+	text-align: center;
+
+}
+
+
+body,a{
+	text-decoration: none;
+}
+
 h1{
 	padding-top: 5rem;
 	padding-bottom: 5rem;
-	text-align: left;
 	margin-left: 3rem;
 	font-family: courier new;
+	color: black;
 }
 
 
@@ -23,4 +45,16 @@ img{
 div{
 	margin-left: 3rem;
 	margin-bottom: 5rem;
+}
+
+p{
+	margin-left:3rem;
+	margin-bottom: 5rem;
+	font-size: 2rem;
+}
+
+table{
+	font-family: Helvatica;
+	width:300px;
+	height:300px;
 }
