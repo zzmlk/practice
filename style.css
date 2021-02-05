@@ -1,7 +1,16 @@
-
 body{
 	text-align: center;
+    align-items: center;
 }
+circle {
+  fill: #b43757;
+}
+
+svg {
+	width: 200px;
+}
+
+
 
 
 body,a{
